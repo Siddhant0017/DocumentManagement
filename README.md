@@ -14,7 +14,7 @@ The Document Management System is a web application designed to help users manag
 
 ## Setup Instructions
 1. Clone the repository:
-git clone <repository_url>
+git clone https://github.com/Siddhant0017/DocumentManagement.git
 cd document-management-system
 
 2. Set up Firebase:
